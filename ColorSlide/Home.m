@@ -26,7 +26,6 @@ NSTimer *myTimer;
     // Do any additional setup after loading the view, typically from a nib.
     //float angleInRadians = 270 * (M_PI/180);
     //self.sliderAzul.transform = CGAffineTransformMakeRotation(angleInRadians);
-    
    
 }
 
